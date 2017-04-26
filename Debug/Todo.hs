@@ -39,7 +39,7 @@ Example:
       "TODO:s exists in code! Make sure you fix them! "
 @
 -}
-module Development.Todo (
+module Debug.Todo (
   todo,  todo_,
   trace
   ) where
