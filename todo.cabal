@@ -1,5 +1,5 @@
 name:                todo
-version:             0.2.0.0
+version:             0.2.0.1
 synopsis:            A todo bottom.
 description:
             This library provides "todo:s", wrapping error and undefined,

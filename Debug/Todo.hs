@@ -19,7 +19,7 @@ This may work but there's some issues with it:
  * If we forget to implement the call for `neatFunction`, we're not getting noticed
    that our function currently is incomplete!
 
-Therefore, with Development.Todo you can do this:
+Therefore, with Debug.Todo you can do this:
 
 > neatFunction = todo "I'm going to implement this!"
 
@@ -35,7 +35,7 @@ Example:
   $ runhaskell example.hs
 
   example.hs:5:16: warning: [-Wdeprecations]
-      In the use of ‘todo’ (imported from Development.Todo):
+      In the use of ‘todo’ (imported from Debug.Todo):
       "TODO:s exists in code! Make sure you fix them! "
 @
 -}
