@@ -1,7 +1,8 @@
 # Todo
 
-Todo wraps some standard debug symbols in warnings so that you'll have to work a bit harder to miss unfinished code in your Haskell programs.
+_Todo_ wraps some standard debug symbols in warnings so that you'll have to work a bit harder to miss unfinished code in your Haskell programs.
 
+[Hackage package](http://hackage.haskell.org/package/todo)
 
 ## Usage
 
