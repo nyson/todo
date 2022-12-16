@@ -1,6 +1,6 @@
 name:                todo
 version:             0.2.0.3
-synopsis:            A replacement for undefined that gives warnings.
+synopsis:            A replacement for error/undefined that gives warnings.
 description:
             This library provides "todo:s", wrapping error and undefined,
             and throws compile time warnings on todo:s still in your code.
