@@ -1,5 +1,9 @@
 # Revision history for todo
 
+## 0.2.0.3  -- 2022-12-16
+* Loosened dependency on base as changes to error/undefined 
+    would at least be a major change
+
 ## 0.2.0.0  -- 2017-04-27
 
 * Removed references to old module names
